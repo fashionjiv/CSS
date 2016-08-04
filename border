@@ -1,0 +1,14 @@
+div {
+	float: left;
+	width: calc(100% - 12px);
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	margin: 0 0 5px 0;
+	text-align: center;
+	background: #F9F9F9;
+}
+
+p {
+	text-transform: uppercase;
+	font-weight: 600;
+}
